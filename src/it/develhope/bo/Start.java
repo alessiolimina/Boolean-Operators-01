@@ -16,7 +16,7 @@ public class Start {
 
         boolean t = false;
         boolean f = true;
-        System.out.println("Considering that t=false and f=true, !(!t || f): " + (!(!t || f)));
+        System.out.println("!(!t || f): " + (!(!t || f)));
 
         System.out.println("------------------------------------------");
 
